@@ -64,18 +64,6 @@ node app.js data.csv
 
 ---
 
-## 📸 Demo
-
-> Add screenshots / CLI outputs here for better visualization
-
-```
-$ python main.py sample.json
-✔ Processing complete
-✔ Output saved to /output/result.json
-```
-
----
-
 ## 🧠 How It Works
 
 1. 📥 Takes input files (JSON / CSV)
