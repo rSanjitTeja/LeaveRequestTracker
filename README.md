@@ -1,6 +1,6 @@
-# 🚀 Project Name
+# 🚀 Leave Request Tracker
 
-> ✨ *A brief one-line description of your project that sounds impressive*
+> ✨ A simple internal tool where users can submit a leave request, view status, and see a basic calendar summary.
 
 ---
 
