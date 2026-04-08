@@ -90,38 +90,3 @@ $ python main.py sample.json
 * Libraries: (Add yours here)
 * Tools: Git, CLI
 
----
-
-## 🤝 Contributing
-
-Contributions are welcome! 🚀
-
-1. Fork the repo
-2. Create a new branch
-3. Commit your changes
-4. Open a Pull Request
-
----
-
-## 📝 License
-
-This project is licensed under the **MIT License**.
-
----
-
-## 🌟 Acknowledgements
-
-* Inspired by real-world automation needs
-* Built with ❤️ for productivity
-
----
-
-## 📬 Contact
-
-👤 Your Name
-📧 [your.email@example.com](mailto:your.email@example.com)
-🔗 GitHub: https://github.com/your-username
-
----
-
-> ⭐ If you like this project, consider giving it a star!
